@@ -22,6 +22,7 @@ Run the image
 docker run -p 9001:9001 -d mock-login-api/mock-login-api
 ```
 
+### Endpoints
 POST
 > /user/login
 Payload:
