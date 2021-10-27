@@ -24,7 +24,7 @@ docker run -p 9001:9001 -d mock-login-api/mock-login-api
 
 ### Endpoints
 
-#### Login user
+#### 1. Login user
 > /user/login
 
 POST
@@ -47,7 +47,7 @@ Response:
 }
 ```
 
-#### Get user by id
+#### 2. Get user by id
 > /user/:id
 
 GET
